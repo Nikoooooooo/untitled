@@ -1,0 +1,1 @@
+20:45:12.968 INFO  org.ycframework.context.YcAnnotationConfigApplicaitonContext 36 <init> - com.yc.MyConfig类上有@YcComponentScan注解,它要扫描的路径:com.yc
