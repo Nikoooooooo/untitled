@@ -4,9 +4,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import spring4.user.BankAccount;
 import spring4.user.BankAccountDao;
-
-import javax.sql.DataSource;
-import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 

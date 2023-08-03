@@ -8,5 +8,5 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
 public @interface YcComponentScan {
-    String[] basePackage() default {};
+    String[] basePackages() default {};
 }
