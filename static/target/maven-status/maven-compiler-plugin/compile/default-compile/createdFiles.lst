@@ -1,0 +1,6 @@
+com\yc\jdkproxy\Test2.class
+com\yc\staticproxy\OrderBiz.class
+com\yc\staticproxy\OrderBizImpl.class
+com\yc\staticproxy\StaticProxy.class
+com\yc\staticproxy\Test.class
+com\yc\jdkproxy\JdkProxyTool.class
